@@ -48,7 +48,8 @@
         <h1>Welcome to the Cloud Computing Project</h1>
     </header>
     <main>
-        <img src="https://github.com/yaheayasmin/my-static-website/blob/main/p1.jfif" alt="صورة عن الحوسبة السحابية">
+      <img src="https://raw.githubusercontent.com/yaheayasmin/my-static-website/main/p1.jfif" alt="صورة عن الحوسبة السحابية">
+
         <p>Welcome to our website dedicated to exploring the benefits of cloud computing and its applications in various fields</p>
         <section>
             <h2>What is cloud computing?</h2>
